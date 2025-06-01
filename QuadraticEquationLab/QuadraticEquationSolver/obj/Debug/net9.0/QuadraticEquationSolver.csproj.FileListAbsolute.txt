@@ -1,0 +1,11 @@
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\bin\Debug\net9.0\QuadraticEquationSolver.deps.json
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\bin\Debug\net9.0\QuadraticEquationSolver.dll
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\bin\Debug\net9.0\QuadraticEquationSolver.pdb
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.AssemblyInfoInputs.cache
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.AssemblyInfo.cs
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.dll
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\obj\Debug\net9.0\refint\QuadraticEquationSolver.dll
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\obj\Debug\net9.0\QuadraticEquationSolver.pdb
+C:\Users\Kodak Black\QuadraticEquationLab\QuadraticEquationLab\QuadraticEquationSolver\obj\Debug\net9.0\ref\QuadraticEquationSolver.dll
